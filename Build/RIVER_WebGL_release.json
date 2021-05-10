@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "river",
+"productVersion": "0.1",
+"dataUrl": "RIVER_WebGL_release.data.unityweb",
+"wasmCodeUrl": "RIVER_WebGL_release.wasm.code.unityweb",
+"wasmFrameworkUrl": "RIVER_WebGL_release.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1c1"
+}
